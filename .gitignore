@@ -1,5 +1,5 @@
 .env
-.db
+*.db
 Financial data/
 
 mock_data/
