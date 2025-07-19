@@ -5,3 +5,5 @@ Financial data/
 mock_data/
 
 vector_stores_and_retrievals.ipynb
+.DS_Store
+__pycache__/
